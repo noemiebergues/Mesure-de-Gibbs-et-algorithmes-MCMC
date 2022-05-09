@@ -8,11 +8,13 @@ ainsi naturel de retrouver cette mesure en physique statistique. Des exemples cl
 de Potts qui décrivent l’évolution à l’échelle macroscopique d’un ensemble de particules à partir des interactions
 entre les paires de particules. Mais cette mesure se retrouve également dans d’autres domaines d’application
 comme l’écologie, le traitement d’image ou la chimie.
+
 Bien qu’utiles d’un point de vue modélisation, les mesures de Gibbs présentent néanmoins une spécificité rendant
 difficile les approches probabilistes et statistiques. En effet, une mesure de Gibbs forme une famille exponentielle
 dont la fonction de partition est difficile si ce n’est impossible à calculer. Ainsi on ne dispose pas d’une forme
 analytique pour la densité ou la vraisemblance qui font partie intégrante de ces approches et il est nécessaire de
 mettre en place des solutions adaptées.
+
 Dans ce mémoire, nous nous intéressons à deux questions fondamentales. La première est celle de la simulation
 suivant une mesure de Gibbs. Tout d’abord, les méthodes de de Monte-Carlo par chaîne de Markov (MCMC) et
 le résultat fondateur énoncé par énoncé par Metropolis et al. [1953] apportent une réponse à cette problématique.
