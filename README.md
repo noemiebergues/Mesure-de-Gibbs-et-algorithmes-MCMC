@@ -1,5 +1,6 @@
 # Mesure-de-Gibbs-et-algorithmes-MCMC
 Les fichiers disponibles sur ce github permettent d'implémenter: 
+  - L'agorithme du rejet sur le modèle du composé chimique, 
   - Les algorithmes de Metropolis-Hastings et Gibbs sur les modèles du composé chimique, d'Ising et de Potts,
   - L'algorithme du recuit simulé sur un jeu du Sudoku,
   - L'algorithme de Propp-Wilson sur les modèles du composé chimique et d'Ising, 
